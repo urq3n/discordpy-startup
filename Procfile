@@ -1,1 +1,1 @@
-discordbot: python discordbot.py
+discordbot: python tunade_1.py
